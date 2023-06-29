@@ -94,16 +94,19 @@ experiences:
 #             - Planning the architecture of the information system/individual blocks.
 #             - Participation in the adaptation of the library on JS (https://dhtmlx.com/docs/products/dhtmlxGantt/new/) to be able to work with it from 1C (front - JS, back - 1C).
 
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Software Developer
+        time: 2019 - 2020
+        company: LSR LLC, Saint Petersburg (https://www.lsr.ru/)
         details: |
+            Activity:
+          - Maintenance (improvement, correction of errors) of non-standard 1С configurations.
+
 #      - role: Software Developer
 #        time: 2019 - 2020
 #        company: "LSR" LLC, Saint Petersburg (https://www.lsr.ru/)
 #        details: |
 #              Activity:
-#              - Maintenance (improvement, correction of errors) of non-standard 1С configurationsю
+#              - Maintenance (improvement, correction of errors) of non-standard 1С configurations.
 #              - Writing exchange rules between various 1C configurations.
 #              - Support and refinement of exchanges with the site, mobile application.
 #              - Implementation of additional subsystems in the configuration (for example, coordination, distribution of alerts).
