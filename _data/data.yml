@@ -100,9 +100,9 @@ experiences:
         details: |
           Activity:
             - Maintenance (improvement, correction of errors) of non-standard 1С configurations.
-            - Bullet point
-            - Bullet point
-            - Bullet point
+            - Writing exchange rules between various 1C configurations.
+            - Support and refinement of exchanges with the site, mobile application.
+            - Implementation of additional subsystems in the configuration (for example, coordination, distribution of alerts).
 #        details: |
 #            Activity:
 #          - Maintenance (improvement, correction of errors) of non-standard 1С configurations.
