@@ -103,6 +103,16 @@ experiences:
             - Writing exchange rules between various 1C configurations.
             - Support and refinement of exchanges with the site, mobile application.
             - Implementation of additional subsystems in the configuration (for example, coordination, distribution of alerts).
+
+      - role: Software Developer
+        time: 2016 - 2019
+        company: 1C:First Bit (https://www.firstbit.com/)
+        details: |
+          Activity:
+            - Updating standard and non-standard 1C configurations.
+            - Development of reports, printed forms.
+            - Setting up standard and non-standard exchanges.
+            - Refinement of configurations (regular and managed forms) and extensions according to technical specifications.
 #        details: |
 #            Activity:
 #          - Maintenance (improvement, correction of errors) of non-standard 1С configurations.
