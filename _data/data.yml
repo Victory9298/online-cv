@@ -98,8 +98,16 @@ experiences:
         time: 2019 - 2020
         company: LSR LLC, Saint Petersburg (https://www.lsr.ru/)
         details: |
-            Activity:
-          - Maintenance (improvement, correction of errors) of non-standard 1С configurations.
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
+#        details: |
+#            Activity:
+#          - Maintenance (improvement, correction of errors) of non-standard 1С configurations.
 
 #      - role: Software Developer
 #        time: 2019 - 2020
