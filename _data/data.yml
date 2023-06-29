@@ -41,18 +41,6 @@ sidebar:
         - idiom: Romanian
           level: Professional
 
-#    interests:
-#      title: Interests
-#      info:
-#        - item: Climbing
-#          link:
-#
-#        - item: Snowboarding
-#          link:
-#
-#        - item: Cooking
-#          link:
-
 career-profile:
     title: Career Profile
     summary: |
@@ -83,16 +71,6 @@ experiences:
             - Development of new subsystems according to the wishes of customers.
             - Planning the architecture of the information system/individual blocks.
             - Participation in the adaptation of the library on JS (https://dhtmlx.com/docs/products/dhtmlxGantt/new/) to be able to work with it from 1C (front - JS, back - 1C).
-#      - role: Software Developer
-#        time: 2020 - Present
-#        company: ITLand, Saint Petersburg (https://itland.ru/)
-#        details: |
-#             - Participation in the development of the 1C configuration and in projects for its implementation.
-#             - Development of integration with external services via API (JSON and XML)
-#             - Implementation of integrations using http, web services with systems such as Oracle Primavera, Windchill, etc.
-#             - Development of new subsystems according to the wishes of customers.
-#             - Planning the architecture of the information system/individual blocks.
-#             - Participation in the adaptation of the library on JS (https://dhtmlx.com/docs/products/dhtmlxGantt/new/) to be able to work with it from 1C (front - JS, back - 1C).
 
       - role: Software Developer
         time: 2019 - 2020
@@ -122,37 +100,6 @@ experiences:
             - Consultation of users on work with software products 1C.
             - Exploring user requirements and writing technical specifications.
             - Development testing.
-#        details: |
-#            Activity:
-#          - Maintenance (improvement, correction of errors) of non-standard 1С configurations.
-
-#      - role: Software Developer
-#        time: 2019 - 2020
-#        company: "LSR" LLC, Saint Petersburg (https://www.lsr.ru/)
-#        details: |
-#              Activity:
-#              - Maintenance (improvement, correction of errors) of non-standard 1С configurations.
-#              - Writing exchange rules between various 1C configurations.
-#              - Support and refinement of exchanges with the site, mobile application.
-#              - Implementation of additional subsystems in the configuration (for example, coordination, distribution of alerts).
-#
-#      - role: Software Developer
-#        time: 2016 - 2019
-#        company: 1C:First Bit (https://www.firstbit.com/)
-#        details: |
-#          - Updating standard and non-standard 1C configurations.
-#          - Development of reports, printed forms.
-#          - Setting up standard and non-standard exchanges.
-#          - Refinement of configurations (regular and managed forms) and extensions according to technical specifications.
-#
-#      - role: Business Analyst
-#        time: 2014 - 2016
-#        company: 1C:First Bit (https://www.firstbit.com/)
-#        details: |
-#            - Consultation of users on work with software products 1C.
-#            - Exploring user requirements and writing technical specifications.
-#            - Development testing.
-          
 
 certifications:
       title: Certifications
@@ -161,28 +108,16 @@ certifications:
           start: 2023
           end: 2023
           organization: Step IT
-#          credentialid: 111-222
           credentialurl: https://itstep.md/
           credentialname: Step IT
-#          details: |
 
         - name: Frontend Developer
           start: 2021
           end: 2022
           organization: Skillbox
-#          credentialid: 111-222
           credentialurl: https://skillbox.ru/
           credentialname: Skillbox
-#          details: |
-#            Older certification. Lorem ipsum dolor sit amet, consectetur
-#            adipiscing elit.
-#            Nullam eget orci purus. Nullam ultrices neque nibh.
-#            Aenean fermentum, felis vulputate suscipit accumsan,
-#            sem enim bibendum augue, sed convallis arcu lacus at dui.
-#            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-#            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-#            Praesent venenatis erat non augue suscipit consectetur.
-        
+
 projects:
     title: Projects
     intro: >
@@ -199,71 +134,30 @@ projects:
         link: "https://github.com/Victory9298/evklid"
         tagline: "A landing page developed according to the peresented template."
 
-#oss:
-#    title: OSS Contributions
-#    intro: >
-#      You can list your open source software contributions in this
-#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#    contributions:
-#      - title: Tempo
-#        link: "#"
-#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-#
-#      - title: Atom
-#        link: "#"
-#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-#
-#      - title: Delta
-#        link: "#"
-#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-#
-#publications:
-#    title: Publications
-#    intro: |
-#      You can list your publications in this section. Lorem ipsum dolor sit
-#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#      bibendum fringilla a eu lectus.
-#    papers:
-#      - title: The Art of Computer Programming
-#        link: "#"
-#        authors: Donald E. Knuth
-#        conference: Addison-Wesley, 1968
-#
-#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#        link: "#"
-#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-#
-#      - title: A syntax directed compiler for Algol 60
-#        link: "#"
-#        authors: Edgar T. Irons
-#        conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Java
-#        level: 60%
+        level: 70%
 
       - name: Spring Boot
-#        level: 60%
+        level: 70%
 
       - name: MySQL
-#        level: 60%
+        level: 70%
 
       - name: HTML & CSS
-#        level: 60%
+        level: 70%
 
       - name: JavaScript
-#        level: 60%
+        level: 70%
 
       - name: JUnit & Mockito
-#        level: 60%
+        level: 70%
 
       - name: Maven
-#        level: 60%
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
