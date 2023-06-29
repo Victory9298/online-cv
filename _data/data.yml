@@ -113,6 +113,15 @@ experiences:
             - Development of reports, printed forms.
             - Setting up standard and non-standard exchanges.
             - Refinement of configurations (regular and managed forms) and extensions according to technical specifications.
+
+      - role: Business Analyst
+        time: 2014 - 2016
+        company: 1C:First Bit (https://www.firstbit.com/)
+        details: |
+          Activity:
+            - Consultation of users on work with software products 1C.
+            - Exploring user requirements and writing technical specifications.
+            - Development testing.
 #        details: |
 #            Activity:
 #          - Maintenance (improvement, correction of errors) of non-standard 1С configurations.
