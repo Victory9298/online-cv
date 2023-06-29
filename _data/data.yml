@@ -72,16 +72,31 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Software Developer
-        time: 2020 - Present
-        company: ITLand, Saint Petersburg (https://itland.ru/)
+      - role: Lead Developer
+        time: 2015 - Present
+        company: Startup Hubs, San Francisco
         details: |
-             - Participation in the development of the 1C configuration and in projects for its implementation.
-             - Development of integration with external services via API (JSON and XML)
-             - Implementation of integrations using http, web services with systems such as Oracle Primavera, Windchill, etc.
-             - Development of new subsystems according to the wishes of customers.
-             - Planning the architecture of the information system/individual blocks.
-             - Participation in the adaptation of the library on JS (https://dhtmlx.com/docs/products/dhtmlxGantt/new/) to be able to work with it from 1C (front - JS, back - 1C).
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+          error sit voluptatem accusantium doloremque laudantium, totam rem
+          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+          architecto beatae vitae dicta sunt explicabo.
+            - Bullet point
+            - Bullet point
+#      - role: Software Developer
+#        time: 2020 - Present
+#        company: ITLand, Saint Petersburg (https://itland.ru/)
+#        details: |
+#             - Participation in the development of the 1C configuration and in projects for its implementation.
+#             - Development of integration with external services via API (JSON and XML)
+#             - Implementation of integrations using http, web services with systems such as Oracle Primavera, Windchill, etc.
+#             - Development of new subsystems according to the wishes of customers.
+#             - Planning the architecture of the information system/individual blocks.
+#             - Participation in the adaptation of the library on JS (https://dhtmlx.com/docs/products/dhtmlxGantt/new/) to be able to work with it from 1C (front - JS, back - 1C).
 
 #      - role: Software Developer
 #        time: 2019 - 2020
@@ -107,7 +122,7 @@ experiences:
 #        details: |
 #            - Consultation of users on work with software products 1C.
 #            - Exploring user requirements and writing technical specifications.
-#            - Development testing. 
+#            - Development testing.
           
 
 certifications:
