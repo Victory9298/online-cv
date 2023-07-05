@@ -47,7 +47,7 @@ career-profile:
       I am an experienced 1C developer who would like to change the working stack. 
       Nevertheless, I consider that my experience and understanding of development principles will be useful in any case.
       I also have some production experience in the frontend development, after which I realized that the backend side is closer to me.
-      In order to prepare for this transition I studied Java Basic and also completed a study project. 
+      In order to prepare for this transition I studied Java Core and also completed a study project. 
       For this project I learned Spring Boot and other technologies. More details can be found in the Projects section. 
 
 education:
@@ -104,7 +104,7 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: Java Basics
+        - name: Java Core
           start: 2023
           end: 2023
           organization: Step IT
@@ -139,25 +139,18 @@ skills:
 
     toolset:
       - name: Java
-        level: 70%
 
       - name: Spring Boot
-        level: 70%
 
       - name: MySQL
-        level: 70%
 
       - name: HTML & CSS
-        level: 70%
 
       - name: JavaScript
-        level: 70%
 
       - name: JUnit & Mockito
-        level: 70%
 
       - name: Maven
-        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
