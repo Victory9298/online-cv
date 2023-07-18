@@ -50,6 +50,22 @@ career-profile:
       In order to prepare for this transition I studied Java Core and also completed a study project. 
       For this project I learned Spring Boot and other technologies. More details can be found in the Projects section. 
 
+projects:
+  title: Projects
+  intro: >
+  assignments:
+    - title: Railway Station. Technologies - Java, Spring Boot, Liquibase, Open Api, Maven, Kafka, MySQL, Mockito, JUnit.
+      link: "https://github.com/Victory9298/Train"
+      tagline: "The educational project is a simulation of the operation of a railway station. At the moment it allows to enter data about stations, passengers, trains, buy a ticket, find a train between stations."
+
+    - title: CRM. Techonologies - Javascript, HTML, CSS.
+      link: "https://github.com/Victory9298/crm"
+      tagline: "The educational project is a crm system for storing customer data. The server part was provided, the client part was developed by me. "
+
+    - title: Landing page. Techonologies - HTML, CSS, Javascript.
+      link: "https://github.com/Victory9298/evklid"
+      tagline: "A landing page developed according to the peresented template."
+      
 education:
     title: Education
     info:
@@ -102,55 +118,39 @@ experiences:
             - Development testing.
 
 certifications:
-      title: Certifications
-      list:
-        - name: Java Core
-          start: 2023
-          end: 2023
-          organization: Step IT
-          credentialurl: https://itstep.md/
-          credentialname: Step IT
+  title: Certifications
+  list:
+    - name: Java Core
+      start: 2023
+      end: 2023
+      organization: Step IT
+      credentialurl: https://itstep.md/
+      credentialname: Step IT
 
-        - name: Frontend Developer
-          start: 2021
-          end: 2022
-          organization: Skillbox
-          credentialurl: https://skillbox.ru/
-          credentialname: Skillbox
+    - name: Frontend Developer
+      start: 2021
+      end: 2022
+      organization: Skillbox
+      credentialurl: https://skillbox.ru/
+      credentialname: Skillbox
 
-projects:
-    title: Projects
-    intro: >
-    assignments:
-      - title: Railway Station. Technologies - Java, Spring Boot, Liquibase, Open Api, Maven, Kafka, MySQL, Mockito, JUnit.
-        link: "https://github.com/Victory9298/Train"
-        tagline: "The educational project is a simulation of the operation of a railway station. At the moment it allows to enter data about stations, passengers, trains, buy a ticket, find a train between stations."
-
-      - title: CRM. Techonologies - Javascript, HTML, CSS.
-        link: "https://github.com/Victory9298/crm"
-        tagline: "The educational project is a crm system for storing customer data. The server part was provided, the client part was developed by me. "
-
-      - title: Landing page. Techonologies - HTML, CSS, Javascript.
-        link: "https://github.com/Victory9298/evklid"
-        tagline: "A landing page developed according to the peresented template."
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Java
-
-      - name: Spring Boot
-
-      - name: MySQL
-
-      - name: HTML & CSS
-
-      - name: JavaScript
-
-      - name: JUnit & Mockito
-
-      - name: Maven
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#skills:
+#    title: Skills &amp; Proficiency
+#
+#    toolset:
+#      - name: Java
+#
+#      - name: Spring Boot
+#
+#      - name: MySQL
+#
+#      - name: HTML & CSS
+#
+#      - name: JavaScript
+#
+#      - name: JUnit & Mockito
+#
+#      - name: Maven
+#
+#footer: >
+#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
