@@ -43,11 +43,11 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: | 
-  - I am an experienced 1C developer who would like to change the working stack.
-  - Nevertheless, I consider that my experience and understanding of development principles will be useful in any case.
-  - In my personal project I used such technologies as: Java Core, Spring Boot, Maven, Hibernate, MySQL, Kafkfa, Liquibase, Git, Spring Security, JUnit, Mockito.
-  - I also have some production experience in the frontend development.
+    summary: |
+      I am an experienced backend developer who is changing the working stack from 1C to Java. 
+      I consider that my experience and understanding of development principles will be useful in any case.
+      Stack: Java Core, Spring Boot, Maven, Hibernate, MySQL, Kafkfa, Liquibase, Git, Rest, Spring Security, JUnit, Mockito, Spring Data JPA, JDBC, XML, JSON, MVC, Postman.
+      I also have some production experience in the frontend development.
 
 projects:
   title: Projects
