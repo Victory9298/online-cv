@@ -43,12 +43,11 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: |
-      I am an experienced 1C developer who would like to change the working stack. 
-      Nevertheless, I consider that my experience and understanding of development principles will be useful in any case.
-      I also have some production experience in the frontend development, after which I realized that the backend side is closer to me.
-      In order to prepare for this transition I studied Java Core and also completed a study project. 
-      For this project I learned Spring Boot and other technologies. More details can be found in the Projects section. 
+    summary: | 
+  - I am an experienced 1C developer who would like to change the working stack.
+  - Nevertheless, I consider that my experience and understanding of development principles will be useful in any case.
+  - In my personal project I used such technologies as: Java Core, Spring Boot, Maven, Hibernate, MySQL, Kafkfa, Liquibase, Git, Spring Security, JUnit, Mockito.
+  - I also have some production experience in the frontend development.
 
 projects:
   title: Projects
@@ -65,7 +64,7 @@ projects:
     - title: Landing page. Techonologies - HTML, CSS, Javascript.
       link: "https://github.com/Victory9298/evklid"
       tagline: "A landing page developed according to the peresented template."
-      
+
 education:
     title: Education
     info:
